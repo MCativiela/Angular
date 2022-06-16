@@ -1,11 +1,11 @@
-# AngularTesting
+# Tests con Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
-## Description
+## Descripción
 
-This repo shows example code to use angular testing with Karma and Jasmine, feel free to take a look, any comment will be appreciated.
+Este repositorio muestra un código de ejemplo que usa los tests con Karma y Jasmine
 
-## Running unit tests
+## Para ejecutar el test
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Escribir "ng test" para ejecutar los test via [Karma](https://karma-runner.github.io).
